@@ -22,7 +22,8 @@
         "esbenp.prettier-vscode",
         "oderwat.indent-rainbow",
         "shardulm94.trailing-spaces",
-        "ms-vscode.vscode-typescript-next"
+        "ms-vscode.vscode-typescript-next",
+	"orta.vscode-twoslash-queries"
       ]
 		}
 	},
